@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp22</string>
+    <string name="cuu">chihuahua</string>
+    <string name="cdmx">ciudad de mexico</string>
+    <string name="mty">monterrey\n</string>
+    <string name="grados">28 grados</string>
+    <string name="city">chihuahua</string>
+</resources>
